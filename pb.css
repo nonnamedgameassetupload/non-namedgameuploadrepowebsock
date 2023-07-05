@@ -1,7 +1,4 @@
-body {
-  background-image: url('playback.png');
-  background-repeat: no-repeat;
-  background-position: center;
+html { 
+  background: url('playback.png') no-repeat center fixed;
   background-size: cover;
-  width: auto; 
 }
